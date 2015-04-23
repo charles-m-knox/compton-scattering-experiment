@@ -17,3 +17,4 @@ Data must be saved in the local directory like so:
 
 
 
+Must be ran with python2.7
